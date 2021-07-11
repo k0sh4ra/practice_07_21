@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+#main {
+    margin: 30px 10px;
+    padding: 15px;
+    background: #eeeeee;
+    border-radius: 5px;
+}
+
+#title {
+    font-size: 36px;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+
+#img-div {
+    background: white;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+#img-caption {
+    padding-top: 15px;
+}
+
+#head_time_line {
+    text-align: center;
+    margin: 50px 0;
+}
+
+#tribute-info { }
+
+#tribute-link { }
+
+ul {
+    max-width: 500px;
+    margin: 0 auto 50px auto;
+}
+
+li {
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+blockquote {
+    font-style: italic;
+    max-width: 450px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
